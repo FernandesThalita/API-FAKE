@@ -22,7 +22,7 @@ ADM: possui acesso a todos funcionário da API interna
     CPF: 666.666.666-66 / SENHA: 666
     
     -pessoa 6
-    CPF: 777.777.777-77 / SENHA: 111
+    CPF: 777.777.777-77 / SENHA: 777
 
 
 
